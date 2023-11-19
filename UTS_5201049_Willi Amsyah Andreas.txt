@@ -1,0 +1,21 @@
+NAME	: Willi Amsyah Andreas
+NIM	: 22416255201049
+CLASS	: IF22G
+
+JAWABAN UTS
+1. Framework dalam pengembangan aplikasi adalah kerangka kerja yang menyediakan struktur dan alat untuk mempermudah proses pengembangan perangkat lunak.  Dengan menggunakan framework, pengembang dapat menghemat waktu, mengurangi kesalahan, dan meningkatkan produktivitas dalam pembangunan aplikasi.
+
+2. Tema Proyek yang sedang di garap : Koprasi
+Nama Anggota Proyek	: Willi Amsyah Andreas (Laporan & Desain)
+			: Widi (Menyusun database dan codingan)
+			: M Farrel Farhan ( Membuat desain)
+Permasalahannya adalah : 
+1. Kegiatan pencatatan data dilakukan dengan ditulis atau diarsipkan ke dalam buku
+maupun dokumen koperasi sehingga sulitnya mendapat informasi mengenai data
+sebelumnya, baik mengenai data anggota, data simpanan maupun data pinjaman.
+2. Dengan terus bertambahnya anggota, pengolahan transaksi simpan pinjam tidak bisa
+cepat terselesaikan karena kesulitan dalam mencari data.
+3. Terjadi kesalahan penghitungan dalam transaksi simpan pinjam sehingga ada
+laporan yang tidak sesuai dan mengakibatkan pembuatan laporan memerlukan
+waktu yang lebih lama dan penuh ketelitian.
+1.2.2. Rumusan
